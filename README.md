@@ -10,7 +10,6 @@ I am a student in web and application development, I like to develop personal pr
 <img alt="CSS3" src="https://img.shields.io/badge/css3-white.svg?style=for-the-badge&logo=css3&logoColor=blue"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-white.svg?style=for-the-badge&logo=javascript"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-white.svg?style=for-the-badge&logo=typescript"/>
-<br>
 <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-white.svg?style=for-the-badge&logo=node.js"/>
 <img alt="Vue" src="https://img.shields.io/badge/Vue-white.svg?style=for-the-badge&logo=vue.js"/>
 <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt.js-white.svg?style=for-the-badge&logo=nuxt.js"/>
@@ -23,7 +22,6 @@ I am a student in web and application development, I like to develop personal pr
 <img alt="Clickup" src="https://img.shields.io/badge/Clickup-white.svg?style=for-the-badge&logo=clickup"/>
 <img alt="Discord" src="https://img.shields.io/badge/Discord-white.svg?style=for-the-badge&logo=discord"/>
 <img alt="Adobe" src="https://img.shields.io/badge/VScode-white.svg?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
-<br>
 <img alt="NPM" src="https://img.shields.io/badge/NPM-white.svg?style=for-the-badge&logo=NPM"/>
 <img alt="PNPM" src="https://img.shields.io/badge/PNPM-white.svg?style=for-the-badge&logo=PNPM"/>
 <img alt="Canva" src="https://img.shields.io/badge/Canva-white.svg?style=for-the-badge&logo=Canva"/>
