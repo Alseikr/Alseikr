@@ -2,9 +2,11 @@
 
 <h3> 📌 About me
 <br>
+<br>
 I am a student in web and application development, I like to develop personal projects and learn more about the technology that surrounds us. Thanks to my studies and my apprenticeship, I can provide you with my open-source projects and make them grow together. Let's go !
 
 <h3> 🔑 Skills
+<br>
 <br>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-white.svg?style=for-the-badge&logo=html5"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-white.svg?style=for-the-badge&logo=css3&logoColor=blue"/>
@@ -17,6 +19,7 @@ I am a student in web and application development, I like to develop personal pr
 <img alt="Mongodb" src="https://img.shields.io/badge/MongoDB-white.svg?style=for-the-badge&logo=mongodb"/>
 
 <h3> 💻 Softwares
+<br>
 <br>
 <img alt="Windows11" src="https://img.shields.io/badge/Windows 11-white.svg?style=for-the-badge&logo=windows11&logoColor=blue"/>
 <img alt="Windows10" src="https://img.shields.io/badge/Windows 10-white.svg?style=for-the-badge&logo=windows&logoColor=blue"/>
@@ -32,5 +35,6 @@ I am a student in web and application development, I like to develop personal pr
 <img alt="Dezzer" src="https://img.shields.io/badge/Deezer-white.svg?style=for-the-badge&logo=deezer"/>
 
 <h3> 👉 Recent Projet: 
+<br>
 <br>
 <a href="https://github.com/Alseikr/Fluma-Client">Fluma-client</a> : A powerful discord client working with slash commands and non-relational databases.
